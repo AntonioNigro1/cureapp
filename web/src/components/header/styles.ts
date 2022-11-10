@@ -9,7 +9,7 @@ export const Container = styled.div`
   align-items: center;
   border: solid;
   border-width: 0px 0px 1px 0px;
-  border-color: grey;
+  border-color: #161d34;
 `;
 
 export const ContainerTitle = styled.div`
