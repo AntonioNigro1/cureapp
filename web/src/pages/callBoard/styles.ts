@@ -6,10 +6,17 @@ export const Container = styled.div`
 `;
 
 export const ContainerCall = styled.div`
-  width: 70%;
+  width: 100%;
   display: flex;
   justify-content: space-evenly;
-  align-items: flex-start;
+  align-items: center;
+`;
+
+export const ContainerLeft = styled.div`
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 `;
 
 export const ContainerChat = styled.div`
